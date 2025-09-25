@@ -1,7 +1,7 @@
 1. Cài đặt thư viện
 npm install
 2. khởi chạy file basic_auth.js
-   get: http://localhost:3000
+   get: http://localhost:3000 
    Auth -> basic Auth
    Username: admin
    Password: 12345
@@ -12,3 +12,5 @@ npm install
    body -> raw
    {"username": "admin", "password":"12345"}
    <img width="923" height="724" alt="image" src="https://github.com/user-attachments/assets/590f5164-cafc-46c3-9b37-550482acc4ac" />
+5. show cookie
+   <img width="1359" height="814" alt="image" src="https://github.com/user-attachments/assets/6069f794-63e4-408a-a7cd-45a58089faa2" />
